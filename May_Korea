@@ -2,472 +2,325 @@
 #EXTM3U
 #EXTINF:-1,SulukWay BALKANIKA
 http://tv.smartal.net:25461/live/nabb3qWEuXLAFzU/JFrzeX3FkcpqsXv/311.ts
-#EXTINF:-1,IN:SONY.ESPN
-http://50.7.198.26:25461/live/kami/kami/2880.ts
-#EXTINF:-1,IN:SONY.SIX
-http://50.7.198.26:25461/live/kami/kami/2884.ts
-#EXTINF:-1,IN:SONY.TEN1
-http://50.7.198.26:25461/live/kami/kami/2936.ts
-#EXTINF:-1,IN:SONY.TEN2
-http://50.7.198.26:25461/live/kami/kami/2939.ts
-#EXTINF:-1,SPORT:IN-STAR SPORT1
-http://50.7.198.26:25461/live/kami/kami/2934.ts
-#EXTINF:-1,SPORT:IN-STAR SPORT2
-http://50.7.198.26:25461/live/kami/kami/2933.ts
-#EXTINF:-1,SPORT:IN-STAR SPORTS 4
-http://50.7.198.26:25461/live/kami/kami/2931.ts
-#EXTINF:-1,SPORT:IN-STARSPORTS3
-http://50.7.198.26:25461/live/kami/kami/2932.ts
-#EXTINF:-1,IN:SONY.MAX2
-http://50.7.198.26:25461/live/kami/kami/2882.ts
-#EXTINF:-1,SPORT:UK-SKYNET SPORT 1
-http://50.7.198.26:25461/live/kami/kami/5273.ts
-#EXTINF:-1,SPORT:UK-SKYNET SPORT 2
-http://50.7.198.26:25461/live/kami/kami/5274.ts
-#EXTINF:-1,SPORT:UK-SKYNET SPORT 3
-http://50.7.198.26:25461/live/kami/kami/5275.ts
-#EXTINF:-1,SPORT:UK-SKYNET SPORT 4
-http://50.7.198.26:25461/live/kami/kami/5276.ts
-#EXTINF:-1,SPORT:UK-SKYNET SPORT 5
-http://50.7.198.26:25461/live/kami/kami/5277.ts
-#EXTINF:-1,SPORT:UK-SKYNET SPORT 6
-http://50.7.198.26:25461/live/kami/kami/5278.ts
-#EXTINF:-1,CAN:TSN1-HD
-http://50.7.198.26:25461/live/kami/kami/3152.ts
-#EXTINF:-1,CAN:TSN2-HD
-http://50.7.198.26:25461/live/kami/kami/3151.ts
-#EXTINF:-1,CA:TSN3-HD
-http://50.7.198.26:25461/live/kami/kami/3150.ts
-#EXTINF:-1,CA:TSN4-HD
-http://50.7.198.26:25461/live/kami/kami/3149.ts
-#EXTINF:-1,CA:TSN5-HD
-http://50.7.198.26:25461/live/kami/kami/3148.ts
-#EXTINF:-1,US:ESPN
-http://50.7.198.26:25461/live/kami/kami/3129.ts
-#EXTINF:-1,US:ESPN-2
-http://50.7.198.26:25461/live/kami/kami/3128.ts
-#EXTINF:-1,US:FOX.SPORT1 HD
-http://50.7.198.26:25461/live/kami/kami/3168.ts
-#EXTINF:-1,US:FOX.SPORT2 HD
-http://50.7.198.26:25461/live/kami/kami/3169.ts
-#EXTINF:-1,US:FOX.SPORT506
-http://50.7.198.26:25461/live/kami/kami/3143.ts
-#EXTINF:-1,SPORT:UK-BT.SPORT1-HD(main)
-http://50.7.198.26:25461/live/kami/kami/3351.ts
-#EXTINF:-1,SPORT:UK-BT.SPORT2-HD(main)
-http://50.7.198.26:25461/live/kami/kami/3353.ts
-#EXTINF:-1,SPORT:UK-BT.SPORT3-HD(main)
-http://50.7.198.26:25461/live/kami/kami/3354.ts
-#EXTINF:-1,SPORT:UK-SKYSP.NEWS-(HQ)HD(main)
-http://50.7.198.26:25461/live/kami/kami/3338.ts
-#EXTINF:-1,SPORT:UK-SKY SP NEWS HD(backup)
-http://50.7.198.26:25461/live/kami/kami/31.ts
-#EXTINF:-1,SPORT:UK-BTSPORT1-HD(backup)
-http://50.7.198.26:25461/live/kami/kami/1249.ts
-#EXTINF:-1,SPORT:UK-BTSPORT2 -HD(backup)
-http://50.7.198.26:25461/live/kami/kami/1248.ts
-#EXTINF:-1,SPORT:UK-BTSPORT3-HD(backup)
-http://50.7.198.26:25461/live/kami/kami/1247.ts
-#EXTINF:-1,SPORT:UK-BT.SPORT1
-http://50.7.198.26:25461/live/kami/kami/19.ts
-#EXTINF:-1,SPORT:UK-BT.SPORT2
-http://50.7.198.26:25461/live/kami/kami/20.ts
-#EXTINF:-1,SPORT:UK-BT.SOPRT3
-http://50.7.198.26:25461/live/kami/kami/21.ts
-#EXTINF:-1,SPORT:UK-BTSPORT-ESPN-FHD
-http://50.7.198.26:25461/live/kami/kami/54.ts
-#EXTINF:-1,SPORT:UK-BEIN.SPORT.MENA11 (ENGLISH)
-http://50.7.198.26:25461/live/kami/kami/149.ts
-#EXTINF:-1,SPORT:UK-SKYSP-MAIN-EVENT-FHD(main)
-http://50.7.198.26:25461/live/kami/kami/3325.ts
-#EXTINF:-1,SPORT:UK-SKYSP-MAIN-EVENT-HD(backup)
-http://50.7.198.26:25461/live/kami/kami/1262.ts
-#EXTINF:-1,SPORT:UK-SKYSP-MAIN.EVENT(backup2)
-http://50.7.198.26:25461/live/kami/kami/33.ts
-#EXTINF:-1,SPORT:UK-SKYSP-PRE'LEAGUE-FHD(main)
-http://50.7.198.26:25461/live/kami/kami/3321.ts
-#EXTINF:-1,SPORT:UK-SKYSP-PRE'LEAGUE-HD(backup)
-http://50.7.198.26:25461/live/kami/kami/1258.ts
-#EXTINF:-1,SPORT:UK-SKYS-PE'LEAGUE(backup2)
-http://50.7.198.26:25461/live/kami/kami/3155.ts
-#EXTINF:-1,SPORT:UK-SKYSP-FTBALL-HD(main)
-http://50.7.198.26:25461/live/kami/kami/3962.ts
-#EXTINF:-1,SPORT:UK-SKY SP FBALL(backup)
-http://50.7.198.26:25461/live/kami/kami/3968.ts
-#EXTINF:-1,SPORT:UK-SKYSP-CRICKET-FHD(main)
-http://50.7.198.26:25461/live/kami/kami/3324.ts
-#EXTINF:-1,SPORT:UK-SKYSP-CRICKET-HD(backup)
-http://50.7.198.26:25461/live/kami/kami/1261.ts
-#EXTINF:-1,SPORT:UK-SKY.SP.CRICKET(backup2)
-http://50.7.198.26:25461/live/kami/kami/23.ts
-#EXTINF:-1,SPORT:UK-SKYSP-ARENA-HD(main)
-http://50.7.198.26:25461/live/kami/kami/3963.ts
-#EXTINF:-1,SPORT:UK-SKY SP ARENA(backup)
-http://50.7.198.26:25461/live/kami/kami/3969.ts
-#EXTINF:-1,SPORT:UK-SKYSP-ACTION-FHD(main)
-http://50.7.198.26:25461/live/kami/kami/3323.ts
-#EXTINF:-1,SPORT:UK-SKYSP-ACTION-HD(backup)
-http://50.7.198.26:25461/live/kami/kami/1260.ts
-#EXTINF:-1,SPORT:UK-SKY.SP.ACTION(backup2)
-http://50.7.198.26:25461/live/kami/kami/22.ts
-#EXTINF:-1,SPORT:UK-SKYSP-THE-OPEN-HD(main)
-http://50.7.198.26:25461/live/kami/kami/3322.ts
-#EXTINF:-1,SPORT:UK-SKYSP-THE-OPEN-HD(backup)
-http://50.7.198.26:25461/live/kami/kami/1259.ts
-#EXTINF:-1,SPORT:UK-SKYSP-THE-OPEN(backup2)
-http://50.7.198.26:25461/live/kami/kami/32.ts
-#EXTINF:-1,SPORT:UK-SKYSP-MIX-HD(main)
-http://50.7.198.26:25461/live/kami/kami/3316.ts
-#EXTINF:-1,SPORT:UK-SKYSP-MIX-HD(backup)
-http://50.7.198.26:25461/live/kami/kami/1257.ts
-#EXTINF:-1,SPORT:UK-SKY.SPORT.MIX-HD
-http://50.7.198.26:25461/live/kami/kami/3171.ts
-#EXTINF:-1,SPORT:UK-PREMIER SOPRT HD(main)
-http://50.7.198.26:25461/live/kami/kami/3960.ts
-#EXTINF:-1,SPORT:UK-PREMIER.SPORT(BUCKUP)
-http://50.7.198.26:25461/live/kami/kami/115.ts
-#EXTINF:-1,SPORT:UK-SKY.SPORT.F1HD
-http://50.7.198.26:25461/live/kami/kami/121.ts
-#EXTINF:-1,SPORT:UK-SKY.SPORT1
-http://50.7.198.26:25461/live/kami/kami/100.ts
-#EXTINF:-1,SPORT:UK-SKY.SPORT2
-http://50.7.198.26:25461/live/kami/kami/99.ts
-#EXTINF:-1,SPORT:UK-SKY.SPORT3
-http://50.7.198.26:25461/live/kami/kami/98.ts
-#EXTINF:-1,SPORT:UK-SKY.SPORT4
-http://50.7.198.26:25461/live/kami/kami/97.ts
-#EXTINF:-1,SPORT:UK-SKY.SPORT5
-http://50.7.198.26:25461/live/kami/kami/96.ts
-#EXTINF:-1,SPORT:UK-OSN-WWE-1
-http://50.7.198.26:25461/live/kami/kami/5126.ts
-#EXTINF:-1,SPORT:UK-WWE-NETWORK
-http://50.7.198.26:25461/live/kami/kami/5042.ts
-#EXTINF:-1,SPORT:UK-BOX.NATION
-http://50.7.198.26:25461/live/kami/kami/120.ts
-#EXTINF:-1,SPORT:UK-BOX.NATION(backup)
-http://50.7.198.26:25461/live/kami/kami/3983.ts
-#EXTINF:-1,SPORT:UK-EIR.SPORT1
-http://50.7.198.26:25461/live/kami/kami/3166.ts
-#EXTINF:-1,SPORT:UK-EIR.SPORT2
-http://50.7.198.26:25461/live/kami/kami/3167.ts
-#EXTINF:-1,SPORT:UK-EUROSPORT1
-http://50.7.198.26:25461/live/kami/kami/63.ts
-#EXTINF:-1,SPORT:UK-EUROSPORT2
-http://50.7.198.26:25461/live/kami/kami/62.ts
-#EXTINF:-1,SPORT:UK-CHELSEA.TV
-http://50.7.198.26:25461/live/kami/kami/72.ts
-#EXTINF:-1,SPORT:UK-LIVERPOOL.-FC
-http://50.7.198.26:25461/live/kami/kami/3170.ts
-#EXTINF:-1,SPORT:UK-MUTV-HD
-http://50.7.198.26:25461/live/kami/kami/53.ts
-#EXTINF:-1,SPORT:UK-REAL.MADRID(SP-AU)
-http://50.7.198.26:25461/live/kami/kami/3349.ts
-#EXTINF:-1,SPORT:UK-RACING
-http://50.7.198.26:25461/live/kami/kami/44.ts
-#EXTINF:-1,SPORT:UK-AT-THE-RACES
-http://50.7.198.26:25461/live/kami/kami/82.ts
-#EXTINF:-1,===>LIVE-EVENTS-PPV<==
-http://50.7.198.26:25461/live/kami/kami/5194.ts
-#EXTINF:-1,UK:-PPV-SKY-BOX-OFFICE(TONY BELLEW VS DAVID HAYE)**
-http://50.7.198.26:25461/live/kami/kami/5125.ts
-#EXTINF:-1,UK:-PPV-SKY-BOX-OFFICE(TONY BELLEW VS DAVID HAYE)
-http://50.7.198.26:25461/live/kami/kami/4182.ts
-#EXTINF:-1,UK-PPV:SKY-.BOX-OFFICE-HD(EVNETS)****
-http://50.7.198.26:25461/live/kami/kami/3982.ts
-#EXTINF:-1,UK:-PPV-SKY-BOX-OFFICE(LIVE-EVENT)*
-http://50.7.198.26:25461/live/kami/kami/5195.ts
-#EXTINF:-1,UK:SKY.BOX OFFICE(LIVE-EVENTS-ON)
-http://50.7.198.26:25461/live/kami/kami/3182.ts
-#EXTINF:-1,UK-PPV:ITV-.BOX-OFFICE-HD(3)
-http://50.7.198.26:25461/live/kami/kami/1255.ts
-#EXTINF:-1,UK-PPV:ITV-.BOX-OFFICE-HD(2)
-http://50.7.198.26:25461/live/kami/kami/1256.ts
-#EXTINF:-1,UK:SKY DRAMA&ROMANCE HD(main)
-http://50.7.198.26:25461/live/kami/kami/3308.ts
-#EXTINF:-1,UK:SKY MOVIES DRAMA(backup)
-http://50.7.198.26:25461/live/kami/kami/106.ts
-#EXTINF:-1,UK:SKY MOVIES SELECT HD(main)
-http://50.7.198.26:25461/live/kami/kami/3313.ts
-#EXTINF:-1,UK:SKY MOVIES SELECT(backup)
-http://50.7.198.26:25461/live/kami/kami/81.ts
-#EXTINF:-1,UK:SKY MOVIES ACTION HD(main)
-http://50.7.198.26:25461/live/kami/kami/3305.ts
-#EXTINF:-1,UK:SKY MOVIES ACTON HD(backup)
-http://50.7.198.26:25461/live/kami/kami/109.ts
-#EXTINF:-1,UK:SKY MOVIES FAMILY HD(main)
-http://50.7.198.26:25461/live/kami/kami/3309.ts
-#EXTINF:-1,UK:SKY MOVIES FAMILY(backup)
-http://50.7.198.26:25461/live/kami/kami/105.ts
-#EXTINF:-1,UK:SKY MOVIES GREATS HD(main)
-http://50.7.198.26:25461/live/kami/kami/3310.ts
-#EXTINF:-1,UK:MOVIES-MODERN-GREAT(2)
-http://50.7.198.26:25461/live/kami/kami/104.ts
-#EXTINF:-1,UK:SKY CINEMA HITS HD(main)
-http://50.7.198.26:25461/live/kami/kami/3314.ts
-#EXTINF:-1,UK:SKY CINEMA HITS HD(backup)
-http://50.7.198.26:25461/live/kami/kami/5187.ts
-#EXTINF:-1,UK:SKY MOVIES PREMIER HD(main)
-http://50.7.198.26:25461/live/kami/kami/3311.ts
-#EXTINF:-1,UK:SKY MOVIES PREMIER HD(backup)
-http://50.7.198.26:25461/live/kami/kami/3232.ts
-#EXTINF:-1,UK:SKY MOVIES SCI-FI HORROR HD(main)
-http://50.7.198.26:25461/live/kami/kami/3312.ts
-#EXTINF:-1,UK:SKY MOVIES SC-FI (backup)
-http://50.7.198.26:25461/live/kami/kami/102.ts
-#EXTINF:-1,UK:SKY CINEMA THRILLER.HD(main)
-http://50.7.198.26:25461/live/kami/kami/3315.ts
-#EXTINF:-1,UK:SKY CINEMA THRILLER(backup)
-http://50.7.198.26:25461/live/kami/kami/101.ts
-#EXTINF:-1,UK:SKY MOVIES COMEDY HD(main)
-http://50.7.198.26:25461/live/kami/kami/3306.ts
-#EXTINF:-1,UK:SKY.MOVIES.COMEDY(backup)
-http://50.7.198.26:25461/live/kami/kami/41.ts
-#EXTINF:-1,UK:SKY MOVIES DISNEY HD(main)
-http://50.7.198.26:25461/live/kami/kami/3307.ts
-#EXTINF:-1,UK:SKY MOVIES DISNEY(backup)
-http://50.7.198.26:25461/live/kami/kami/107.ts
-#EXTINF:-1,SKY CINEMA BOX OFFICE 1 HD
-http://50.7.198.26:25461/live/kami/kami/5247.ts
-#EXTINF:-1,SKY CINEMA BOX OFFICE 2 HD
-http://50.7.198.26:25461/live/kami/kami/5248.ts
-#EXTINF:-1,SKY CINEMA BOX OFFICE 3D
-http://50.7.198.26:25461/live/kami/kami/5249.ts
-#EXTINF:-1,SKY CINEMA BOX OFFICE 4 HD
-http://50.7.198.26:25461/live/kami/kami/5250.ts
-#EXTINF:-1,UK:NOLLYWOOD MOVIES
-http://50.7.198.26:25461/live/kami/kami/5188.ts
-#EXTINF:-1,UK:SKY.MOVIES.SHOWCASE
-http://50.7.198.26:25461/live/kami/kami/3234.ts
-#EXTINF:-1,UK:SONY.MOVIES
-http://50.7.198.26:25461/live/kami/kami/3334.ts
-#EXTINF:-1,UK:FILM4
-http://50.7.198.26:25461/live/kami/kami/35.ts
-#EXTINF:-1,UK:HORROR.CHANNEL
-http://50.7.198.26:25461/live/kami/kami/3230.ts
-#EXTINF:-1,UK:MOVIE-4-MEN
-http://50.7.198.26:25461/live/kami/kami/122.ts
-#EXTINF:-1,UK:MOVIES-24
-http://50.7.198.26:25461/live/kami/kami/3231.ts
-#EXTINF:-1,UK:SKY.ATLANTIC
-http://50.7.198.26:25461/live/kami/kami/113.ts
-#EXTINF:-1,UK:TRUE.ENTERTAINMENT
-http://50.7.198.26:25461/live/kami/kami/11.ts
-#EXTINF:-1,UK:TRUE.MOVIES2
-http://50.7.198.26:25461/live/kami/kami/10.ts
-#EXTINF:-1,UK:CARTOON.NETWORK.HD
-http://50.7.198.26:25461/live/kami/kami/3327.ts
-#EXTINF:-1,UK:CARTOON.NETWORK
-http://50.7.198.26:25461/live/kami/kami/94.ts
-#EXTINF:-1,UK-:NICK.JR.TOO.HD*
-http://50.7.198.26:25461/live/kami/kami/3335.ts
-#EXTINF:-1,UK:NICK.JR.TOO
-http://50.7.198.26:25461/live/kami/kami/48.ts
-#EXTINF:-1,UK:NICK.JR
-http://50.7.198.26:25461/live/kami/kami/49.ts
-#EXTINF:-1,UK:NICKELOEDEON
-http://50.7.198.26:25461/live/kami/kami/47.ts
-#EXTINF:-1,UK:NICKTOON
-http://50.7.198.26:25461/live/kami/kami/46.ts
-#EXTINF:-1,UK:DISNEY.CHANNEL
-http://50.7.198.26:25461/live/kami/kami/92.ts
-#EXTINF:-1,UK:DISNEY.JR
-http://50.7.198.26:25461/live/kami/kami/91.ts
-#EXTINF:-1,UK:DISNEY.XD
-http://50.7.198.26:25461/live/kami/kami/90.ts
-#EXTINF:-1,UK:BOOMERANG
-http://50.7.198.26:25461/live/kami/kami/1243.ts
-#EXTINF:-1,UK:ANIMAL-PLANET
-http://50.7.198.26:25461/live/kami/kami/5.ts
-#EXTINF:-1,UK:DISCOVERY
-http://50.7.198.26:25461/live/kami/kami/123.ts
-#EXTINF:-1,UK:DISCOVERY-TURBO
-http://50.7.198.26:25461/live/kami/kami/3172.ts
-#EXTINF:-1,UK:DISCOVERY.HISTORY
-http://50.7.198.26:25461/live/kami/kami/67.ts
-#EXTINF:-1,UK:DISCOVERY.INVERSTIGATION
-http://50.7.198.26:25461/live/kami/kami/65.ts
-#EXTINF:-1,UK:DISCOVERY.SCIENCE
-http://50.7.198.26:25461/live/kami/kami/66.ts
-#EXTINF:-1,UK:NAT.GEO
-http://50.7.198.26:25461/live/kami/kami/117.ts
-#EXTINF:-1,UK:NATIONALGEO.WILD
-http://50.7.198.26:25461/live/kami/kami/116.ts
-#EXTINF:-1,UK:CRIME-INVESTIGATION
-http://50.7.198.26:25461/live/kami/kami/3355.ts
-#EXTINF:-1,UK:HISTORY
-http://50.7.198.26:25461/live/kami/kami/3173.ts
-#EXTINF:-1,UK:RT-DOCUMENTARY
-http://50.7.198.26:25461/live/kami/kami/3187.ts
-#EXTINF:-1,UK:TRAVEL.CHANNEL
-http://50.7.198.26:25461/live/kami/kami/61.ts
-#EXTINF:-1,UK:E4
-http://50.7.198.26:25461/live/kami/kami/86.ts
-#EXTINF:-1,UK:FOX
-http://50.7.198.26:25461/live/kami/kami/34.ts
-#EXTINF:-1,UK:LIFE.OK
-http://50.7.198.26:25461/live/kami/kami/2928.ts
-#EXTINF:-1,UK:LIFE.TIME
-http://50.7.198.26:25461/live/kami/kami/3175.ts
-#EXTINF:-1,UK:MOTORS
-http://50.7.198.26:25461/live/kami/kami/51.ts
-#EXTINF:-1,UK:SKY.LIVING
-http://50.7.198.26:25461/live/kami/kami/110.ts
-#EXTINF:-1,UK:SKY-ONE
-http://50.7.198.26:25461/live/kami/kami/36.ts
-#EXTINF:-1,UK:SKY-TWO
-http://50.7.198.26:25461/live/kami/kami/30.ts
-#EXTINF:-1,UK:SONY-CHANNEL
-http://50.7.198.26:25461/live/kami/kami/3364.ts
-#EXTINF:-1,UK:SONY.MAX
-http://50.7.198.26:25461/live/kami/kami/2883.ts
-#EXTINF:-1,UK:SPIKE
-http://50.7.198.26:25461/live/kami/kami/3348.ts
-#EXTINF:-1,UK:SYFY
-http://50.7.198.26:25461/live/kami/kami/13.ts
-#EXTINF:-1,UK:TCM
-http://50.7.198.26:25461/live/kami/kami/12.ts
-#EXTINF:-1,UK:TLC
-http://50.7.198.26:25461/live/kami/kami/3174.ts
-#EXTINF:-1,UK:UNIVERSAL
-http://50.7.198.26:25461/live/kami/kami/8.ts
-#EXTINF:-1,UK:MTV.DANCE
-http://50.7.198.26:25461/live/kami/kami/26.ts
-#EXTINF:-1,UK:MTV.HITS
-http://50.7.198.26:25461/live/kami/kami/89.ts
-#EXTINF:-1,UK:MTV.MUSIC
-http://50.7.198.26:25461/live/kami/kami/71.ts
-#EXTINF:-1,UK:MTV.ROCKS
-http://50.7.198.26:25461/live/kami/kami/50.ts
-#EXTINF:-1,UK:MTV-Live-HD
-http://50.7.198.26:25461/live/kami/kami/3194.ts
-#EXTINF:-1,UK:HEART TV
-http://50.7.198.26:25461/live/kami/kami/3190.ts
-#EXTINF:-1,UK:MTV BASE
-http://50.7.198.26:25461/live/kami/kami/3193.ts
-#EXTINF:-1,==¨ˆ SKY NEWS ¨ˆ ==
-http://50.7.198.26:25461/live/kami/kami/3184.ts
-#EXTINF:-1,UK-:FRANCE.24.(ENGLISH)
-http://50.7.198.26:25461/live/kami/kami/3346.ts
-#EXTINF:-1,UK:ALJAZEERA-NEWS
-http://50.7.198.26:25461/live/kami/kami/3179.ts
-#EXTINF:-1,UK:CNN
-http://50.7.198.26:25461/live/kami/kami/3186.ts
-#EXTINF:-1,UK:BBC.NEWS
-http://50.7.198.26:25461/live/kami/kami/18.ts
-#EXTINF:-1,UK:EURONEWS
-http://50.7.198.26:25461/live/kami/kami/3185.ts
-#EXTINF:-1,UK:RT.TODAY
-http://50.7.198.26:25461/live/kami/kami/3332.ts
-#EXTINF:-1,UK:SKY.NEWS
-http://50.7.198.26:25461/live/kami/kami/37.ts
-#EXTINF:-1,UK:SKY.NEWS.ARABIA
-http://50.7.198.26:25461/live/kami/kami/3241.ts
-#EXTINF:-1,US:A&E HD
-http://50.7.198.26:25461/live/kami/kami/3086.ts
-#EXTINF:-1,US:ABC
-http://50.7.198.26:25461/live/kami/kami/3087.ts
-#EXTINF:-1,US:NBC.HD
-http://50.7.198.26:25461/live/kami/kami/3133.ts
-#EXTINF:-1,US:USA-NETWORK
-http://50.7.198.26:25461/live/kami/kami/3107.ts
-#EXTINF:-1,US:AMC HD
-http://50.7.198.26:25461/live/kami/kami/3118.ts
-#EXTINF:-1,US:BET
-http://50.7.198.26:25461/live/kami/kami/3079.ts
-#EXTINF:-1,US:BRAVO HD
-http://50.7.198.26:25461/live/kami/kami/3100.ts
-#EXTINF:-1,US:FX-HD
-http://50.7.198.26:25461/live/kami/kami/3109.ts
-#EXTINF:-1,US:LIFETIME 720P
-http://50.7.198.26:25461/live/kami/kami/3103.ts
-#EXTINF:-1,US:FOOD NETWORK
-http://50.7.198.26:25461/live/kami/kami/5300.ts
-#EXTINF:-1,US:SPIKE
-http://50.7.198.26:25461/live/kami/kami/3094.ts
-#EXTINF:-1,US:SYFYHD
-http://50.7.198.26:25461/live/kami/kami/3111.ts
-#EXTINF:-1,US:TNT HD
-http://50.7.198.26:25461/live/kami/kami/3095.ts
-#EXTINF:-1,US: VH1
-http://50.7.198.26:25461/live/kami/kami/5305.ts
-#EXTINF:-1,US: E!
-http://50.7.198.26:25461/live/kami/kami/5299.ts
-#EXTINF:-1,US:HALLMARK
-http://50.7.198.26:25461/live/kami/kami/5298.ts
-#EXTINF:-1,US:HGTV
-http://50.7.198.26:25461/live/kami/kami/5297.ts
-#EXTINF:-1,US: BBC AMERICA
-http://50.7.198.26:25461/live/kami/kami/5324.ts
-#EXTINF:-1,US: MTV
-http://50.7.198.26:25461/live/kami/kami/5335.ts
-#EXTINF:-1,US: SUNDANCE
-http://50.7.198.26:25461/live/kami/kami/5334.ts
-#EXTINF:-1,US: TLC
-http://50.7.198.26:25461/live/kami/kami/5332.ts
-#EXTINF:-1,US: VICELAND
-http://50.7.198.26:25461/live/kami/kami/5333.ts
-#EXTINF:-1,===>USA-DOCUMENTARY<==
-http://50.7.198.26:25461/live/kami/kami/1245.ts
-#EXTINF:-1,US:DISCOVERY 720p
-http://50.7.198.26:25461/live/kami/kami/3097.ts
-#EXTINF:-1,US:DISCOVERY-SC 720P
-http://50.7.198.26:25461/live/kami/kami/3098.ts
-#EXTINF:-1,US:ANIMAL-PLANET HD
-http://50.7.198.26:25461/live/kami/kami/3088.ts
-#EXTINF:-1,US:NATIONAL GEOGRAPHIC
-http://50.7.198.26:25461/live/kami/kami/3093.ts
-#EXTINF:-1,US: NAT GEO WILD
-http://50.7.198.26:25461/live/kami/kami/3073.ts
-#EXTINF:-1,US: HISTORY CHANNEL
-http://50.7.198.26:25461/live/kami/kami/5308.ts
-#EXTINF:-1,US:INVESTIGATION DISCOVERY HD
-http://50.7.198.26:25461/live/kami/kami/5270.ts
-#EXTINF:-1,US:TRAVEL CHANNEL
-http://50.7.198.26:25461/live/kami/kami/3110.ts
-#EXTINF:-1,===>USA-KIDS<==
-http://50.7.198.26:25461/live/kami/kami/1251.ts
-#EXTINF:-1,US: CARTOON NETWORK
-http://50.7.198.26:25461/live/kami/kami/5306.ts
-#EXTINF:-1,US: DISNEY XD
-http://50.7.198.26:25461/live/kami/kami/5307.ts
-#EXTINF:-1,US:NICKTOONS
-http://50.7.198.26:25461/live/kami/kami/3105.ts
-#EXTINF:-1,===>USA-NEWS<==
-http://50.7.198.26:25461/live/kami/kami/1252.ts
-#EXTINF:-1,US:ABC-NEWS
-http://50.7.198.26:25461/live/kami/kami/3083.ts
-#EXTINF:-1,US:CNBC HD
-http://50.7.198.26:25461/live/kami/kami/3104.ts
-#EXTINF:-1,US:CNN NEWS
-http://50.7.198.26:25461/live/kami/kami/3102.ts
-#EXTINF:-1,US:FOX.NEWS
-http://50.7.198.26:25461/live/kami/kami/3108.ts
-#EXTINF:-1,===>USA-SPORTS<==
-http://50.7.198.26:25461/live/kami/kami/1244.ts
-#EXTINF:-1,US:BEIN.SPORT FHD
-http://50.7.198.26:25461/live/kami/kami/5272.ts
-#EXTINF:-1,US:AFN-SPORTS1
-http://50.7.198.26:25461/live/kami/kami/3138.ts
-#EXTINF:-1,US:AFN-SPORTS2
-http://50.7.198.26:25461/live/kami/kami/3139.ts
-#EXTINF:-1,US:CBS-SPORT
-http://50.7.198.26:25461/live/kami/kami/3085.ts
-#EXTINF:-1,US:NBA-TV-HD
-http://50.7.198.26:25461/live/kami/kami/3146.ts
-#EXTINF:-1,US: NBA2
-http://50.7.198.26:25461/live/kami/kami/5338.ts
-#EXTINF:-1,US: NBA LEAGUE PASS1
-http://50.7.198.26:25461/live/kami/kami/5339.ts
-#EXTINF:-1,US:NBC-GOLF
-http://50.7.198.26:25461/live/kami/kami/3134.ts
-#EXTINF:-1,US:NFL NETWORK HD
-http://50.7.198.26:25461/live/kami/kami/3130.ts
-#EXTINF:-1,US:MLB NETWORK FHD
-http://50.7.198.26:25461/live/kami/kami/5271.ts
-#EXTINF:-1,US:ESPN U
-http://50.7.198.26:25461/live/kami/kami/5322.ts
-#EXTINF:-1,US:WWE
-http://50.7.198.26:25461/live/kami/kami/410.ts
-#EXTINF:-1,CAN:TSN1-HD
-http://50.7.198.26:25461/liv
+#EXTINF:-1,EDGEsport HD
+http://46.149.191.229:8000/play/a01a
+#EXTINF:-1,Sony Espn HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:-1,Sony Ten 1
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:-1,Sony ten 3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:-1,SONY ESPN
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
+#EXTINF:-1,AR:BEINSPORTS-1 HD
+http://iptv.worldcup-tv.uk:8000/live/iptv/star7/453.ts
+#EXTINF:-1,AR:BEINSPORTS-2 HD
+http://iptv.worldcup-tv.uk:8000/live/iptv/star7/454.ts
+#EXTINF:-1,AR:BEINSPORTS-3 HD
+http://iptv.worldcup-tv.uk:8000/live/iptv/star7/455.ts
+#EXTINF:-1,AR:BEINSPORTS-4 HD
+http://iptv.worldcup-tv.uk:8000/live/iptv/star7/456.ts
+#EXTINF:-1,AR:BEINSPORTS-5 HD
+http://iptv.worldcup-tv.uk:8000/live/iptv/star7/457.ts
+#EXTINF:-1,AR:BEINSPORTS-6 HD
+http://iptv.worldcup-tv.uk:8000/live/iptv/star7/458.ts
+#EXTINF:-1,AR:BEINSPORTS-7 HD
+http://iptv.worldcup-tv.uk:8000/live/iptv/star7/459.ts
+#EXTINF:-1,AR:BEINSPORTS-8 HD
+http://iptv.worldcup-tv.uk:8000/live/iptv/star7/460.ts
+#EXTINF:-1,ESPN   HD
+http://142.44.215.45:25461/live/marcio/marcio/14249.ts
+#EXTINF:-1,ESPN BRASIL
+http://142.44.215.45:25461/live/marcio/marcio/14248.ts
+#EXTINF:-1,ESPN BRASIL HD
+http://142.44.215.45:25461/live/marcio/marcio/14247.ts
+#EXTINF:-1,ESPN HD
+http://142.44.215.45:25461/live/marcio/marcio/14244.ts
+#EXTINF:-1,FOX SPORTS
+http://142.44.215.45:25461/live/marcio/marcio/14225.ts
+#EXTINF:-1,FOX SPORTS HD
+http://142.44.215.45:25461/live/marcio/marcio/14224.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://142.44.215.45:25461/live/marcio/marcio/14222.ts
+#EXTINF:-1,SPORTV
+http://142.44.215.45:25461/live/marcio/marcio/14099.ts
+#EXTINF:-1,SPORTV HD
+http://142.44.215.45:25461/live/marcio/marcio/14094.ts
+#EXTINF:-1,SPORTV 2 HD
+http://142.44.215.45:25461/live/marcio/marcio/14097.ts
+#EXTINF:-1,SPORTV 3 HD
+http://142.44.215.45:25461/live/marcio/marcio/14095.ts
+EXTINF:-1,FOX HD
+http://46.149.191.229:8000/play/a01c
+#EXTINF:-1,COSMOTESport3HD
+http://46.149.191.229:8000/play/a00v
+#EXTINF:-1,SundanceTV
+http://46.149.191.229:8000/play/a01d
+#EXTINF:-1,COSMOTESport8HD
+http://46.149.191.229:8000/play/a015
+#EXTINF:-1,COSMOTESport1HD
+http://46.149.191.229:8000/play/a00s
+#EXTINF:-1,National Geographic
+http://46.149.191.229:8000/play/a01i
+#EXTINF:-1,Motorvision Channel HD
+http://46.149.191.229:8000/play/a01e
+#EXTINF:-1,Disney Junior
+http://46.149.191.229:8000/play/a01l
+#EXTINF:-1,Nat Geo HD
+http://46.149.191.229:8000/play/a013
+#EXTINF:-1,FOX Life HD
+http://46.149.191.229:8000/play/a01b
+#EXTINF:-1,Village Cinema HD
+http://46.149.191.229:8000/play/a011
+#EXTINF:-1,EDGEsport HD
+http://46.149.191.229:8000/play/a01h
+#EXTINF:-1,Disney Channel
+http://46.149.191.229:8000/play/a01g
+#EXTINF:-1,COSMOTESport7HD
+http://46.149.191.229:8000/play/a00z
+#EXTINF:-1,COSMOTECinema1HD
+http://46.149.191.229:8000/play/a00r
+#EXTINF:-1,COSMOTESport5HD
+http://46.149.191.229:8000/play/a012
+#EXTINF:-1,COSMOTESport4HD
+http://46.149.191.229:8000/play/a00x
+#EXTINF:-1,COSMOTESport2HD
+http://46.149.191.229:8000/play/a00u
+#EXTINF:-1,COSMOTECinema4HD
+http://46.149.191.229:8000/play/a018
+#EXTINF:-1,COSMOTE History HD
+http://46.149.191.229:8000/play/a017
+#EXTINF:-1,COSMOTECinema2HD
+http://46.149.191.229:8000/play/a014
+#EXTINF:-1,Viasat History
+http://46.149.191.229:8000/play/a01j
+#EXTINF:-1,COSMOTESportHighlightsHD
+http://46.149.191.229:8000/play/a019
+#EXTINF:-1,COSMOTECinema3
+http://46.149.191.229:8000/play/a00w
+#EXTINF:-1,COSMOTESport6HD
+http://46.149.191.229:8000/play/a010
+
+#EXTINF:-1,SKY SPORTS Main Event HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/47.ts
+#EXTINF:-1,SKY SPORTS Premier Leauge HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/55.ts
+#EXTINF:-1,SKY SPORTS Football HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1801.ts
+#EXTINF:-1,SKY SPORTS Cricket HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/49.ts
+#EXTINF:-1,SKY SPORTS The Open HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/53.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/57.ts
+#EXTINF:-1,SKY SPORTS Action HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/51.ts
+#EXTINF:-1,SKY SPORTS Arena HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1629.ts
+#EXTINF:-1,Sky Sports News HQ HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/264.ts
+#EXTINF:-1,Sky Sports Mix HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/247.ts
+#EXTINF:-1,Sky Sports Main Event SD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/48.ts
+#EXTINF:-1,Sky Sports Premier Leauge SD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/56.ts
+#EXTINF:-1,SKY SPORTS Football HD (2)
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1873.ts
+#EXTINF:-1,Sky Sports Cricket SD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/50.ts
+#EXTINF:-1,Sky Sports The Open SD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/54.ts
+#EXTINF:-1,Sky Sports F1 SD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/64.ts
+#EXTINF:-1,Sky Sports Action SD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/52.ts
+#EXTINF:-1,Sky Sports Arena HD (LOCAL)
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1872.ts
+#EXTINF:-1,Sky Sports News HQ
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1614.ts
+#EXTINF:-1,Sky Sports Mix SD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/222.ts
+#EXTINF:-1,UK: British Eurosport 1 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/59.ts
+#EXTINF:-1,UK: British EuroSports 2
+http://iptv.satplex.co.uk:8080/live/halil/halil2/58.ts
+#EXTINF:-1,BT Sport 1HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/44.ts
+#EXTINF:-1,Bt Sport 2 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/45.ts
+#EXTINF:-1,BT Sport 3 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/46.ts
+#EXTINF:-1,UK: BT SPORT 1 SD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/511.ts
+#EXTINF:-1,UK: BT SPORT 2 SD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/512.ts
+#EXTINF:-1,UK: BT SPORT ESPN SD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/510.ts
+#EXTINF:-1,UK: BOX NATION HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1544.ts
+#EXTINF:-1,UK : Premier Sports HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/61.ts
+#EXTINF:-1,Setanta Ireland HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/63.ts
+#EXTINF:-1,VIP: Setanta HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/60.ts
+#EXTINF:-1,UK: EIR SPORT 1
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1537.ts
+#EXTINF:-1,UK: EIR SPORT 2
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1538.ts
+#EXTINF:-1,OSN Sports 1 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1521.ts
+#EXTINF:-1,OSN Sports 2 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1522.ts
+#EXTINF:-1,OSN Sports 3 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1523.ts
+#EXTINF:-1,OSN Sports 4 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1524.ts
+#EXTINF:-1,TSN 1 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/223.ts
+#EXTINF:-1,TSN 2 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/224.ts
+#EXTINF:-1,TSN 3 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/225.ts
+#EXTINF:-1,TSN 4 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/226.ts
+#EXTINF:-1,TSN 5 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/227.ts
+#EXTINF:-1,VIP :MIO  ELEVEN PLUS 103 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1520.ts
+#EXTINF:-1,VIP :MIO  ELEVEN HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1519.ts
+#EXTINF:-1,VIP : MIO ELEVEN SPORTS HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1518.ts
+#EXTINF:-1,MUTV
+http://iptv.satplex.co.uk:8080/live/halil/halil2/43.ts
+#EXTINF:-1,UK: CHELSEA TV HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1543.ts
+#EXTINF:-1,UK: CELTIC FC TV (Live for Matches)
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1540.ts
+#EXTINF:-1,BT SPORT EXTRA 6
+http://iptv.satplex.co.uk:8080/live/halil/halil2/240.ts
+#EXTINF:-1,BT SPORT EXTRA 5
+http://iptv.satplex.co.uk:8080/live/halil/halil2/239.ts
+#EXTINF:-1,BT SPORT EXTRA 4
+http://iptv.satplex.co.uk:8080/live/halil/halil2/238.ts
+#EXTINF:-1,BT SPORT EXTRA 3
+http://iptv.satplex.co.uk:8080/live/halil/halil2/237.ts
+#EXTINF:-1,BT SPORT EXTRA 2
+http://iptv.satplex.co.uk:8080/live/halil/halil2/236.ts
+#EXTINF:-1,BT SPORT EXTRA 1
+http://iptv.satplex.co.uk:8080/live/halil/halil2/235.ts
+#EXTINF:-1,UK: RANGERS FC TV (Local)
+http://iptv.satplex.co.uk:8080/live/halil/halil2/1539.ts
+#EXTINF:-1,BT Sport 3 SD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/2336.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/251.ts
+#EXTINF:-1,US: WWE HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/152.ts
+#EXTINF:-1,USA: UFC Fight pass
+http://iptv.satplex.co.uk:8080/live/halil/halil2/156.ts
+#EXTINF:-1,US: NBC SPORT
+http://iptv.satplex.co.uk:8080/live/halil/halil2/154.ts
+#EXTINF:-1,US: NBC Golf HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/155.ts
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/126.ts
+#EXTINF:-1,USA : Fox Sports 2 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/149.ts
+#EXTINF:-1,USA : Fox Sports 1 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/150.ts
+#EXTINF:-1,CA: SPORTSNET WORLD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/120.ts
+#EXTINF:-1,CA: SPORTSNET WEST
+http://iptv.satplex.co.uk:8080/live/halil/halil2/119.ts
+#EXTINF:-1,CA: SPORTSNET PACIFIC
+http://iptv.satplex.co.uk:8080/live/halil/halil2/118.ts
+#EXTINF:-1,CA: SPORTSNET ONTARIO
+http://iptv.satplex.co.uk:8080/live/halil/halil2/117.ts
+#EXTINF:-1,CA: SPORTSNET ONE
+http://iptv.satplex.co.uk:8080/live/halil/halil2/116.ts
+#EXTINF:-1,CA: SPORTSNET EAST
+http://iptv.satplex.co.uk:8080/live/halil/halil2/115.ts
+#EXTINF:-1,CA: SPORTSNET 360
+http://iptv.satplex.co.uk:8080/live/halil/halil2/114.ts
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/199.ts
+#EXTINF:-1,FR: BEIN SPORTS 2 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/200.ts
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/201.ts
+#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/202.ts
+#EXTINF:-1,FR: BEIN SPORTS MAX 5 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/203.ts
+#EXTINF:-1,AR: BEIN SPORT 1 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/187.ts
+#EXTINF:-1,AR: BEIN SPORT 2 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/188.ts
+#EXTINF:-1,AR: BEIN SPORT 3 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/189.ts
+#EXTINF:-1,AR: BEIN SPORT 4 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/190.ts
+#EXTINF:-1,AR: BEIN SPORT 5 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/191.ts
+#EXTINF:-1,AR: BEIN SPORT 6 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/192.ts
+#EXTINF:-1,AR: BEIN SPORT 7 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/193.ts
+#EXTINF:-1,AR: BEIN SPORT 8 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/194.ts
+#EXTINF:-1,AR: BEIN SPORT 9 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/195.ts
+#EXTINF:-1,AR: BEIN SPORT 10 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/196.ts
+#EXTINF:-1,AR: BEIN SPORT 11 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/197.ts
+#EXTINF:-1,AR: BEIN SPORT 12 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/198.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://iptv.satplex.co.uk:8080/live/halil/halil2/205.ts
+#EXTINF:-1,ES: CANAL LIGA TV
+http://iptv.satplex.co.uk:8080/live/halil/halil2/206.ts
+#EXTINF:-1,ES: BARCA TV
+http://iptv.satplex.co.uk:8080/live/halil/halil2/204.ts
+#EXTINF:-1,TR: Bein Sports 1 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/2938.ts
+#EXTINF:-1,TR: Bein Sports 2 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/2937.ts
+#EXTINF:-1,TR: Bein Sports 3 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/2936.ts
+#EXTINF:-1,TR: Bein Sports 4 HD
+http://iptv.satplex.co.uk:8080/live/halil/halil2/2935.ts
+#EXTINF:-1,TR: beIN Sports Max 1
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/4553.ts
+#EXTINF:-1,TR: beIN Sports Max 2
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/4557.ts
+#EXTINF:-1,TR: beIN Sports 1 HD 1080P
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/4614.ts
+#EXTINF:-1,TR: beIN Sports 2 HD
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/3.ts
+#EXTINF:-1,TR: beIN Sports 3 HD
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/4.ts
+#EXTINF:-1,TR: beIN Sports 4 HD
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/630.ts
+#EXTINF:-1,TR: beIN Sports 5 HD
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/33.ts
+#EXTINF:-1,TR: S Spor 1 HD
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/5.ts
+#EXTINF:-1,TR: S Spor 2 HD
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/6.ts
+#EXTINF:-1,TR: Tivibu Spor 1 HQ
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/445.ts
+#EXTINF:-1,TR: Tivibu Spor 2 HQ
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/444.ts
+#EXTINF:-1,TR: Tivibu Spor 3 HQ
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/2526.ts
+#EXTINF:-1,TR: Tivibu Spor 4 HQ
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/2527.ts
+#EXTINF:-1,TR: Tivibu Spor 5 (82) HQ
+http://ip.open4.xyz:8000/live/muratcubukcuoglu/2DncYQUlHR/4986.ts
+
+
 
