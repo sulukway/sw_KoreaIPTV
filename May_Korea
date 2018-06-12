@@ -1,6 +1,15 @@
 #EXTM3U
-
-#EXTINF:-1,VTV1 HD (by Suluk Way)
+#EXTINF:0 group-title="SPORTS",SONY ESPN HD (NEW by SulukWay)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0, group-title="SPORTS",SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1,VTV1 HD 
 http://vtvgo-blockobj.b5695cde.cdnviet.com/live/_definst_/vtv1-high.m3u8
 #EXTINF:-1,VTV2 HD
 http://vtvgo-blockobj.b5695cde.cdnviet.com/live/_definst_/vtv2-high.m3u8
@@ -12,16 +21,6 @@ http://vtvgo-blockobj.b5695cde.cdnviet.com/live/_definst_/vtv4-high.m3u8
 http://vtvgo-blockobj.b5695cde.cdnviet.com/live/_definst_/vtv5-high.m3u8
 #EXTINF:-1,VTV6 HD
 http://vtvgo-blockobj.b5695cde.cdnviet.com/live/_definst_/vtv6-high.m3u8
-#EXTINF:0 group-title="SPORTS",SONY ESPN HD (NEW by SW)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:0, group-title="SPORTS",SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:0 group-title="SPORTS",SONY TEN 1 HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:0 group-title="SPORTS",SONY TEN 2 HD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:0 group-title="SPORTS",SONY TEN 3 HD
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1,(SG) MEDIACORP OKTO SG
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 #EXTINF:-1,CCTV5 高清
