@@ -77,23 +77,25 @@ http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
 http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
 #EXTINF:-1 group-title="SPORT",BT SPORT 3
 http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 1 HD
-http://cdnv.cli.tn/iptv/ch922?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 2 HD
-http://cdnv.cli.tn/iptv/ch937?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 3 HD
-http://cdnv.cli.tn/iptv/ch914?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 4 HD
-http://cdnv.cli.tn/iptv/ch915?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 5 HD
-http://cdnv.cli.tn/iptv/ch916?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT MIX HD
-http://cdnv.cli.tn/iptv/ch931?code=610116485444847
-#EXTINF:-1 group-title="SPORT",BT SPORT 1 HD
-http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
-#EXTINF:-1 group-title="SPORT",BT SPORT 2 HD
-http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
-#EXTINF:-1 group-title="SPORT",BT SPORT 3 HD
-http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
+#EXTINF:0,Bein Sports HD 1
+http://163.172.220.115:8080/rAMdannbein/beinsp1/index.m3u8
+#EXTINF:0,Bein Sports HD 2
+http://163.172.220.115:8080/rAMdannbein/beinsp2/index.m3u8
+#EXTINF:0,Bein Sports HD 3
+http://163.172.220.115:8080/rAMdannbein/beinsp3/index.m3u8
+#EXTINF:0,Bein Sports HD 4
+http://163.172.220.115:8080/rAMdannbein/beinsp4/index.m3u8
+#EXTINF:0,Bein Sports HD 5
+http://163.172.220.115:8080/rAMdannbein/beinsp5/index.m3u8
+#EXTINF:0,Bein Sports HD 6
+http://163.172.220.115:8080/rAMdannbein/beinsp6/index.m3u8
+#EXTINF:0,Bein Sports HD 7
+http://163.172.220.115:8080/rAMdannbein/beinsp7/index.m3u8
+#EXTINF:0,Bein Sports HD 8
+http://163.172.220.115:8080/rAMdannbein/beinsp8/index.m3u8
+#EXTINF:0,Bein Sports HD 9
+http://163.172.220.115:8080/rAMdannbein/beinsp9/index.m3u8
+#EXTINF:0,Bein Sports HD 10
+http://163.172.220.115:8080/rAMdannbein/beinsp10/index.m3u8
 
 
