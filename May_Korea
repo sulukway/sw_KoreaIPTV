@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1,TH: Sky Net Sport HD
+http://193.200.164.171:6969/live/robert/robert123/17868.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 1 HD TRUE VISION
+http://193.200.164.171:6969/live/robert/robert123/8243.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 2 HD TRUE VISION
+http://193.200.164.171:6969/live/robert/robert123/8242.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 2 TRUE VISION
+http://193.200.164.171:6969/live/robert/robert123/8246.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 3 HD TRUE VISON
+http://193.200.164.171:6969/live/robert/robert123/8241.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 3 TRUE VISION
+http://193.200.164.171:6969/live/robert/robert123/8245.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 4 HD TRUE VISION
+http://193.200.164.171:6969/live/robert/robert123/8240.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 4 TRUE VISION
+http://193.200.164.171:6969/live/robert/robert123/8244.ts
+#EXTINF:-1,TH: TRUE SPORTS 1 HD
+http://193.200.164.171:6969/live/robert/robert123/8260.ts
+#EXTINF:-1,TH: TRUE SPORTS 2 HD
+http://193.200.164.171:6969/live/robert/robert123/8259.ts
+#EXTINF:-1,TH: TRUE SPORTS 3 HD
+http://193.200.164.171:6969/live/robert/robert123/8257.ts
+#EXTINF:-1,TH: TRUE SPORTS 2 SD
+http://193.200.164.171:6969/live/robert/robert123/8258.ts
+#EXTINF:-1,TH: TRUE SPORTS 7 SD
+http://193.200.164.171:6969/live/robert/robert123/8256.ts
+#EXTINF:-1,TH: Fox Thai
+http://193.200.164.171:6969/live/robert/robert123/2416.ts
 
 #EXTINF:-1 tvg-id="VTV 1" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD SV2
 https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8
