@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1,IN: MAASRANGA TV (SULUKWAY)
+#EXTINF:-1 SW: Astro Arena HD (SULUKWAY)
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1,IN: MAASRANGA TV 
 http://193.200.164.171:6969/live/jad/jad/7902.ts
 #EXTINF:-1,PK: PTV Sports HD
 http://193.200.164.171:6969/live/jad/jad/5568.ts
@@ -71,16 +73,7 @@ http://193.200.164.171:6969/live/jad/jad/5983.ts
 http://193.200.164.171:6969/live/jad/jad/5984.ts
 #EXTINF:-1,VIP SG: FOX SPORTS 3
 http://193.200.164.171:6969/live/jad/jad/5985.ts
-#EXTINF:-1,AR: Beout Q Sport 1 HD
-http://193.200.164.171:6969/live/jad/jad/18907.ts
-#EXTINF:-1,AR: Beout Q Sport 2 HD
-http://193.200.164.171:6969/live/jad/jad/18906.ts
-#EXTINF:-1,AR: Beout Q Sport 3 HD
-http://193.200.164.171:6969/live/jad/jad/18905.ts
-#EXTINF:-1,AR: Beout Q Sport 4 HD
-http://193.200.164.171:6969/live/jad/jad/18904.ts
-#EXTINF:-1,AR: Beout Q Sport 5 HD
-http://193.200.164.171:6969/live/jad/jad/18903.ts
+
 #EXTINF:-1,PL: ELEVEN SPORTS 1 HD
 http://193.200.164.171:6969/live/jad/jad/6279.ts
 #EXTINF:-1,PL: Eleven Sports 2 FHD
@@ -235,6 +228,14 @@ https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV3
 https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="CCTV-I",CCTV5HD
+http://111.20.33.71/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1 group-title="CCTV-I",CCTV5HD
+http://111.20.33.69/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:-1 group-title="CCTV-I",CCTV5+HD
+http://111.20.33.72/PLTV/88888888/224/3221225534/index.m3u8
+#EXTINF:-1 group-title="CCTV-I",CCTV5+HD
+http://111.20.33.69/PLTV/88888888/224/3221225761/index.m3u8
 #EXTINF:-1,(SG) MEDIACORP OKTO SG
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 #EXTINF:-1,CCTV5
