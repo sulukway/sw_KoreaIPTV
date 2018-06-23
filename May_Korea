@@ -289,6 +289,41 @@ http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
 http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
 #EXTINF:-1 group-title="SPORT",BT SPORT 3
 http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
-
+#EXTINF:-1,TH: SkyNet Sport HD
+http://193.200.164.171:6969/live/robert/robert123/17868.ts
+#EXTINF:-1,TH: TRUE SPORTS 1 HD
+http://193.200.164.171:6969/live/robert/robert123/8260.ts
+#EXTINF:-1,TH: TRUE SPORTS 2 HD
+http://193.200.164.171:6969/live/robert/robert123/8259.ts
+#EXTINF:-1,TH: TRUE SPORTS 3 HD
+http://193.200.164.171:6969/live/robert/robert123/8257.ts
+#EXTINF:-1,TH: TRUE SPORTS 2 SD
+http://193.200.164.171:6969/live/robert/robert123/8258.ts
+#EXTINF:-1,TH: TRUE SPORTS 7 SD
+http://193.200.164.171:6969/live/robert/robert123/8256.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 1 HD TRUE VISION
+http://193.200.164.171:6969/live/robert/robert123/8243.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 2 HD TRUE VISION
+http://193.200.164.171:6969/live/robert/robert123/8242.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 3 HD TRUE VISON
+http://193.200.164.171:6969/live/robert/robert123/8241.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 4 HD TRUE VISION
+http://193.200.164.171:6969/live/robert/robert123/8240.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 2 TRUE VISION
+http://193.200.164.171:6969/live/robert/robert123/8246.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 3 TRUE VISION
+http://193.200.164.171:6969/live/robert/robert123/8245.ts
+#EXTINF:-1,TH: BEIN SPORTS TH 4 TRUE VISION
+http://193.200.164.171:6969/live/robert/robert123/8244.ts
+#EXTINF:-1,TH: FOX SPORTS 1 HD
+http://193.200.164.171:6969/live/robert/robert123/9379.ts
+#EXTINF:-1,TH: FOX SPORTS 2 HD
+http://193.200.164.171:6969/live/robert/robert123/9378.ts
+#EXTINF:-1,TH: FOX SPORTS 3 HD
+http://193.200.164.171:6969/live/robert/robert123/9377.ts
+#EXTINF:-1,TH: Fox Sports HD
+http://193.200.164.171:6969/live/robert/robert123/9381.ts
+#EXTINF:-1,TH: Fox Thai
+http://193.200.164.171:6969/live/robert/robert123/2416.ts
 
 
