@@ -1,331 +1,68 @@
 #EXTM3U
+#EXTINF:- 1,Suluk® → FTV 
+http://seam-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
+#EXTINF:-1,Suluk® → HBO HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/66.m3u8
+#EXTINF:-1,Suluk® → TRUE ASIA
+http://iptvthai.webhop.biz:443/sd-asianseries_480/index.m3u8
+#EXTINF:-1,Suluk® → TRUE FILM HD
+http://iptvthai.webhop.biz:443/hd-tfilm_720/index.m3u8
+#EXTINF:-1,Suluk® → TRUE FILM ASIA
+http://iptvthai.webhop.biz:443/sd-filmasia_480/index.m3u8
+#EXTINF:-1,Suluk® → TRUE FOX FAMILY MOVIES HD
+http://iptvthai.webhop.biz:443/hd-foxfamily_720/index.m3u8
+#EXTINF:-1,Suluk® → TRUE AXN
+http://iptvthai.webhop.biz:443/hd-axn_720/index.m3u8
+#EXTINF:-1,Suluk® → TRUE FOX MOVIES PREMIUM
+http://iptvthai.webhop.biz:443/hd-foxpremium_720/index.m3u8
+#EXTINF:-1,Suluk® → TRUE FOX FAMILY
+http://iptvthai.webhop.biz:443/hd-foxfamily_720/index.m3u8?
+#EXTINF:-1,Suluk® → FOX ACTION MOVIES
+http://iptvthai.webhop.biz:443/hd-foxaction_720/index.m3u8
+#EXTINF:-1,Suluk® → SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+#EXTINF:-1,Suluk® → SONY PLEX HD TV
+http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8
 
-#EXTINF:-1,*SW*: MAASRANGA TV  (SULUKWAY)
-http://193.200.164.171:6969/live/jad/jad/7902.ts
-#EXTINF:-1,*SW*: Astro Arena HD (SULUKWAY)
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1,PK: PTV Sports HD
-http://193.200.164.171:6969/live/jad/jad/5568.ts
-#EXTINF:-1,*VIP*: SKYNET SPORTS HD
-http://193.200.164.171:6969/live/jad/jad/5178.ts
-#EXTINF:-1,AFG: TOLO
-http://193.200.164.171:6969/live/jad/jad/5529.ts
-#EXTINF:-1,AFG: LEMAR
-http://193.200.164.171:6969/live/jad/jad/5544.ts
-#EXTINF:-1,TH: SKYNET SPORTS HD
-http://193.200.164.171:6969/live/jad/jad/17868.ts
-#EXTINF:-1,MY: SKYNET SPORTS 1
-http://193.200.164.171:6969/live/jad/jad/17078.ts
-#EXTINF:-1,MY: SKYNET SPORTS 2
-http://193.200.164.171:6969/live/jad/jad/17077.ts
-#EXTINF:-1,MY: SKYNET SPORTS 3
-http://193.200.164.171:6969/live/jad/jad/17076.ts
-#EXTINF:-1,MY: SKYNET SPORTS 4
-http://193.200.164.171:6969/live/jad/jad/17075.ts
-#EXTINF:-1,MY: SKYNET SPORTS 5
-http://193.200.164.171:6969/live/jad/jad/17074.ts
-#EXTINF:-1,MY: SKYNET SPORTS 6
-http://193.200.164.171:6969/live/jad/jad/17073.ts
-#EXTINF:-1,THAI: BEIN TRUE Sports 1
-http://193.200.164.171:6969/live/jad/jad/8247.ts
-#EXTINF:-1,TH: TRUE SPORTS 1 HD
-http://193.200.164.171:6969/live/jad/jad/8260.ts
-#EXTINF:-1,TH: TRUE SPORTS 2 HD
-http://193.200.164.171:6969/live/jad/jad/8259.ts
-#EXTINF:-1,TH: TRUE SPORTS 3 HD
-http://193.200.164.171:6969/live/jad/jad/8257.ts
-#EXTINF:-1,TH: TRUE SPORTS 2 SD
-http://193.200.164.171:6969/live/jad/jad/8258.ts
-#EXTINF:-1,TH: TRUE SPORTS 7 SD
-http://193.200.164.171:6969/live/jad/jad/8256.ts
-#EXTINF:-1,THAI: TRUEVISION TENNIS HD
-http://193.200.164.171:6969/live/jad/jad/8611.ts
-#EXTINF:-1,TH: Fox Thai
-http://193.200.164.171:6969/live/jad/jad/2416.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 1 HD TRUE VISION
-http://193.200.164.171:6969/live/jad/jad/8243.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 2 HD TRUE VISION
-http://193.200.164.171:6969/live/jad/jad/8242.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 2 TRUE VISION
-http://193.200.164.171:6969/live/jad/jad/8246.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 3 HD TRUE VISON
-http://193.200.164.171:6969/live/jad/jad/8241.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 3 TRUE VISION
-http://193.200.164.171:6969/live/jad/jad/8245.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 4 HD TRUE VISION
-http://193.200.164.171:6969/live/jad/jad/8240.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 4 TRUE VISION
-http://193.200.164.171:6969/live/jad/jad/8244.ts
-#EXTINF:0 group-title="SPORTS",SONY ESPN HD (NEW by SW)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:0, group-title="SPORTS",SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:0 group-title="SPORTS",SONY TEN 1 HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:0 group-title="SPORTS",SONY TEN 2 HD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:0 group-title="SPORTS",SONY TEN 3 HD
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1,VIP SG: Eleven Plus 103 HD
-http://193.200.164.171:6969/live/jad/jad/6514.ts
-#EXTINF:-1,VIP SG: FOX SPORTS 1 HD
-http://193.200.164.171:6969/live/jad/jad/5983.ts
-#EXTINF:-1,VIP SG: FOX SPORTS 2
-http://193.200.164.171:6969/live/jad/jad/5984.ts
-#EXTINF:-1,VIP SG: FOX SPORTS 3
-http://193.200.164.171:6969/live/jad/jad/5985.ts
+#EXTINF:-1,Suluk® → NAT GEO WILD
+http://103.242.13.90:5555/udp/239.4.1.62:10000
+#EXTINF:-1,Suluk® → DISCOVERY WORLD HD
+http://103.242.13.90:5555/udp/239.4.1.20:10000
+#EXTINF:-1,Suluk® → NATIONAL GEOGRAPHIC
+http://103.242.13.90:5555/udp/239.4.1.61:10000
 
-#EXTINF:-1,PL: ELEVEN SPORTS 1 HD
-http://193.200.164.171:6969/live/jad/jad/6279.ts
-#EXTINF:-1,PL: Eleven Sports 2 FHD
-http://193.200.164.171:6969/live/jad/jad/17323.ts
-#EXTINF:-1,PL: Eleven Sports 3 FHD
-http://193.200.164.171:6969/live/jad/jad/17322.ts
-#EXTINF:-1,PL: Eleven Sports 4 HD
-http://193.200.164.171:6969/live/jad/jad/17324.ts
-#EXTINF:-1,RO: DIGI Sport 1 FHD
-http://193.200.164.171:6969/live/jad/jad/17242.ts
-#EXTINF:-1,RO: DIGI Sport 2 FHD
-http://193.200.164.171:6969/live/jad/jad/17241.ts
-#EXTINF:-1,RO: DIGI Sport 3 FHD
-http://193.200.164.171:6969/live/jad/jad/17240.ts
-#EXTINF:-1,AL: Super Sport Kosovo 1 HD
-http://193.200.164.171:6969/live/jad/jad/2128.ts
-#EXTINF:-1,AL: Super Sport Kosovo 2 HD
-http://193.200.164.171:6969/live/jad/jad/2127.ts
-#EXTINF:-1,AL: Super Sport 1
-http://193.200.164.171:6969/live/jad/jad/2130.ts
-#EXTINF:-1,AL: Super Sport 2
-http://193.200.164.171:6969/live/jad/jad/2129.ts
-#EXTINF:-1,AL : SuperSport 3
-http://193.200.164.171:6969/live/jad/jad/3406.ts
-#EXTINF:-1,AL : SuperSport 4
-http://193.200.164.171:6969/live/jad/jad/3405.ts
-#EXTINF:-1,AL : SuperSport 5
-http://193.200.164.171:6969/live/jad/jad/3404.ts
-#EXTINF:-1,AL : SuperSport 6
-http://193.200.164.171:6969/live/jad/jad/3403.ts
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://193.200.164.171:6969/live/jad/jad/3992.ts
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://193.200.164.171:6969/live/jad/jad/3993.ts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://193.200.164.171:6969/live/jad/jad/3994.ts
-#EXTINF:-1,PT: SPORT TV 4HD
-http://193.200.164.171:6969/live/jad/jad/2495.ts
-#EXTINF:-1,PT: SPORT TV 5HD
-http://193.200.164.171:6969/live/jad/jad/2496.ts
-#EXTINF:-1,Ex-Yu: Arena Sport 1 HR FHD
-http://193.200.164.171:6969/live/jad/jad/18209.ts
-#EXTINF:-1,Ex-Yu: Arena Sport 2 HR FHD
-http://193.200.164.171:6969/live/jad/jad/18208.ts
-#EXTINF:-1,AR: BEIN 1 FHD
-http://193.200.164.171:6969/live/jad/jad/8998.ts
-#EXTINF:-1,AR: BEIN 2 FHD
-http://193.200.164.171:6969/live/jad/jad/8997.ts
-#EXTINF:-1,AR: BEIN 3 FHD
-http://193.200.164.171:6969/live/jad/jad/8996.ts
-#EXTINF:-1,AR: BEIN 4 FHD
-http://193.200.164.171:6969/live/jad/jad/8995.ts
-#EXTINF:-1,AR: BEIN 5 HD
-http://193.200.164.171:6969/live/jad/jad/8994.ts
-#EXTINF:-1,AR: BEIN 6 HD
-http://193.200.164.171:6969/live/jad/jad/8993.ts
-#EXTINF:-1,AR: BEIN 7 FHD
-http://193.200.164.171:6969/live/jad/jad/8992.ts
-#EXTINF:-1,AR: BEIN 8 FHD
-http://193.200.164.171:6969/live/jad/jad/8991.ts
-#EXTINF:-1,AR: BEIN 9 HD
-http://193.200.164.171:6969/live/jad/jad/9124.ts
-#EXTINF:-1,AR: BEIN 10 HD
-http://193.200.164.171:6969/live/jad/jad/9127.ts
-#EXTINF:-1,AR: BEIN 11 HD
-http://193.200.164.171:6969/live/jad/jad/9126.ts
-#EXTINF:-1,AR: BEIN 12 HD
-http://193.200.164.171:6969/live/jad/jad/9125.ts
-#EXTINF:-1,AR: BEIN 13 HD
-http://193.200.164.171:6969/live/jad/jad/9123.ts
-#EXTINF:-1,VIP AR: BeIN Movies 1HD
-http://193.200.164.171:6969/live/jad/jad/6608.ts
-#EXTINF:-1,VIP AR: BeIN Movies 2HD
-http://193.200.164.171:6969/live/jad/jad/6609.ts
-#EXTINF:-1,VIP AR: BeIN Movies 3HD
-http://193.200.164.171:6969/live/jad/jad/6610.ts
-#EXTINF:-1,VIP AR: BeIN Movies 4HD
-http://193.200.164.171:6969/live/jad/jad/6611.ts
-#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
-http://193.200.164.171:6969/live/jad/jad/17086.ts
-#EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
-http://193.200.164.171:6969/live/jad/jad/17085.ts
-#EXTINF:-1,IN:VIP Star sports HD1
-http://193.200.164.171:6969/live/jad/jad/5625.ts
-#EXTINF:-1,IN:VIP Star sports HD2
-http://193.200.164.171:6969/live/jad/jad/5626.ts
-#EXTINF:-1,IN:VIP Star sports HD3
-http://193.200.164.171:6969/live/jad/jad/5627.ts
-#EXTINF:-1,IN:VIP Star sports HD4
-http://193.200.164.171:6969/live/jad/jad/5628.ts
-#EXTINF:-1,AR: OSN Sports 1 HD
-http://193.200.164.171:6969/live/jad/jad/4645.ts
-#EXTINF:-1,AR: OSN Sports 2 HD
-http://193.200.164.171:6969/live/jad/jad/4644.ts
-#EXTINF:-1,AR: OSN Sports 3 HD
-http://193.200.164.171:6969/live/jad/jad/4643.ts
-#EXTINF:-1,AR: OSN Sports 4 HD
-http://193.200.164.171:6969/live/jad/jad/4642.ts
-#EXTINF:-1,VIP: MY HD Fox Action Movies HD
-http://193.200.164.171:6969/live/jad/jad/6175.ts
-#EXTINF:-1, VOD DE: 007 - Spectre [2015]
-http://193.200.164.171:6969/movie/jad/jad/14641.mkv
-#EXTINF:-1, VOD IT: Wonder Woman (2017)
-http://193.200.164.171:6969/movie/jad/jad/15778.mp4
-#EXTINF:-1, VOD 3D Movies: Kong Skull Island 3D [2017]
-http://193.200.164.171:6969/movie/jad/jad/13673.mp4
+#EXTINF:-1,Suluk® → SONY TEN1 HD
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:-1,Suluk® → SONY TEN2 HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:-1,Suluk® → SONY TEN3 HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1,Suluk® → SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+#EXTINF:-1,Suluk® → SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT  HD1
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/229.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT  HD2
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/230.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT  HD3
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD1 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/149.m3u8
+#EXTINF:-1,Suluk® → BIEN SPORT HD2 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/150.m3u8
+#EXTINF:-1,Suluk® → BIEN SPORT HD2 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/152.m3u8
+#EXTINF:-1,Suluk® → BIEN SPORT HD3 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/153.m3u8
+#EXTINF:-1,Suluk® → BIEN SPORT HD3 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/154.m3u8
+#EXTINF:-1,Suluk® → BIEN SPORT HD4 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/155.m3u8
+#EXTINF:-1,Suluk® → BIEN SPORT HD4 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/156.m3u8
 
-#EXTINF:-1 tvg-id="VTV 1" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD SV2
-https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv1_w150_h150.png" group-title="VTV", VTV1 HD SV3
-https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://i.imgur.com/JW8VXef.png" group-title="VTV", VTV1 HD SV4
-http://live.cdn.mobifonetv.vn/motv/vtv1hd_hls.smil/chunklist_b1200000.m3u8
- 
-#EXTINF:-1 tvg-id="VTV 2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV1
-https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV 2" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png" group-title="VTV", VTV2 HD SV2
-https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="VTV 3" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD SV1
-https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV 3" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png" group-title="VTV", VTV3 HD SV2
-https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV1
-https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV4" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv4_w150_h150.png" group-title="VTV", VTV4 HD SV2
-https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="VTV5" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV1
-https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV5" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png" group-title="VTV", VTV5 HD SV2
-https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="VTV 6" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV", VTV6 HD SV1
-https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV 6" tvg-logo="http://i.imgur.com/keIENsc.png" group-title="VTV", VTV6 HD SV2
-https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV2
-https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7hC1wSG.jpg" group-title="VTV", VTV7 HD SV3
-https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="VTV8 HD" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV2
-https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTVDN" tvg-logo="http://cdn.kplus.vn/content/upload/1/root/logo-vtv8_w150_h150.png" group-title="VTV", VTV8 HD SV3
-https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV2
-https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://cdn.kplus.vn/content/upload/1/root/logo-vtv9_w150_h150.png" group-title="VTV", VTV9 HD SV3
-https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="CCTV-I",CCTV5HD
-http://111.20.33.71/PLTV/88888888/224/3221225545/index.m3u8
-#EXTINF:-1 group-title="CCTV-I",CCTV5HD
-http://111.20.33.69/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:-1 group-title="CCTV-I",CCTV5+HD
-http://111.20.33.72/PLTV/88888888/224/3221225534/index.m3u8
-#EXTINF:-1 group-title="CCTV-I",CCTV5+HD
-http://111.20.33.69/PLTV/88888888/224/3221225761/index.m3u8
-#EXTINF:-1,(SG) MEDIACORP OKTO SG
-https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-#EXTINF:-1,CCTV5
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-5/1.m3u8
-#EXTINF:-1,(TH) TV 5
-http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
-#EXTINF:-1,(TH) AMARIN HD
-http://s2.live14.com/stream/5195e80fe1ed0/playlist.m3u8
-#EXTINF:-1,RTM TV1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1,RTM TV2
-http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1,DSports HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
-#EXTINF:-1,(RU) REN TV HD
-http://195.88.16.15/ren/index.m3u8
-#EXTINF:-1,(RU) Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_vhig.m3u8
-#EXTINF:-1,(RU) Россия 24 HD
-http://ls1.vestinn.ru/play/h/r24nnov/index.m3u8
-#EXTINF:-1,AD SPORT 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,AD SPORT 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:0,MYTV APSTAR 6
-http://103.242.13.90:5555/udp/239.4.1.56:10000
-#EXTINF:0,CTN APSTAR 6
-http://103.242.13.90:5555/udp/239.4.1.57:10000
-#EXTINF:0,CNC APSTAR 6
-http://103.242.13.90:5555/udp/239.4.1.55:10000
-#EXTINF:0,FOX SPORT 1 HD
-http://103.242.13.90:5555/udp/239.4.1.47:10000
-#EXTINF:0,FOX SPORT 2 HD
-http://103.242.13.90:5555/udp/239.4.1.48:10000
-#EXTINF:0,FOX SPORT 3 HD
-http://103.242.13.90:5555/udp/239.4.1.44:10000
-#EXTINF:-1 group-title="SPORT",SKY SPORT 1 HD
-http://cdnv.cli.tn/iptv/ch922?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 2 HD
-http://cdnv.cli.tn/iptv/ch937?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 3 HD
-http://cdnv.cli.tn/iptv/ch914?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 4 HD
-http://cdnv.cli.tn/iptv/ch915?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT 5 HD
-http://cdnv.cli.tn/iptv/ch916?code=610116485444847
-#EXTINF:-1 group-title="SPORT",SKY SPORT MIX HD
-http://cdnv.cli.tn/iptv/ch931?code=610116485444847
-#EXTINF:-1 group-title="SPORT",BT SPORT 1
-http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
-#EXTINF:-1 group-title="SPORT",BT SPORT 2
-http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
-#EXTINF:-1 group-title="SPORT",BT SPORT 3
-http://cdnv.cli.tn/iptv/ch1830?code=610116485444847
-#EXTINF:-1,TH: SkyNet Sport HD
-http://193.200.164.171:6969/live/robert/robert123/17868.ts
-#EXTINF:-1,TH: TRUE SPORTS 1 HD
-http://193.200.164.171:6969/live/robert/robert123/8260.ts
-#EXTINF:-1,TH: TRUE SPORTS 2 HD
-http://193.200.164.171:6969/live/robert/robert123/8259.ts
-#EXTINF:-1,TH: TRUE SPORTS 3 HD
-http://193.200.164.171:6969/live/robert/robert123/8257.ts
-#EXTINF:-1,TH: TRUE SPORTS 2 SD
-http://193.200.164.171:6969/live/robert/robert123/8258.ts
-#EXTINF:-1,TH: TRUE SPORTS 7 SD
-http://193.200.164.171:6969/live/robert/robert123/8256.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 1 HD TRUE VISION
-http://193.200.164.171:6969/live/robert/robert123/8243.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 2 HD TRUE VISION
-http://193.200.164.171:6969/live/robert/robert123/8242.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 3 HD TRUE VISON
-http://193.200.164.171:6969/live/robert/robert123/8241.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 4 HD TRUE VISION
-http://193.200.164.171:6969/live/robert/robert123/8240.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 2 TRUE VISION
-http://193.200.164.171:6969/live/robert/robert123/8246.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 3 TRUE VISION
-http://193.200.164.171:6969/live/robert/robert123/8245.ts
-#EXTINF:-1,TH: BEIN SPORTS TH 4 TRUE VISION
-http://193.200.164.171:6969/live/robert/robert123/8244.ts
-#EXTINF:-1,TH: FOX SPORTS 1 HD
-http://193.200.164.171:6969/live/robert/robert123/9379.ts
-#EXTINF:-1,TH: FOX SPORTS 2 HD
-http://193.200.164.171:6969/live/robert/robert123/9378.ts
-#EXTINF:-1,TH: FOX SPORTS 3 HD
-http://193.200.164.171:6969/live/robert/robert123/9377.ts
-#EXTINF:-1,TH: Fox Sports HD
-http://193.200.164.171:6969/live/robert/robert123/9381.ts
-#EXTINF:-1,TH: Fox Thai
-http://193.200.164.171:6969/live/robert/robert123/2416.ts
+
 
 
